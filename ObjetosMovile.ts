@@ -39,7 +39,7 @@ console.log(Samsung.price);
 
 Nokia3210.is5G = true;
 Nokia3210.cameraNumber = 4;
-console.log("")
 
+console.log("");
 console.log(Nokia3210.is5G);
 console.log(Nokia3210.cameraNumber);
