@@ -75,7 +75,7 @@ export class Mobile
     
     public printAll(){
 
-        console.log("\"The characteristics of the mobile " + this.getName() + "are\"" +
+        console.log("\"The characteristics of the mobile " + this.getName() + " are\"" +
         "\nName: " + this.getName() +
         "\nModel: " + this.getModel() +
         "\nTrademark: " + this.getTrademark() +
